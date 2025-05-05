@@ -33,3 +33,10 @@ frontend-wms
 ![image](https://github.com/user-attachments/assets/fd3c43b2-21d8-4c74-9491-08ca257929df)
 
 ![image](https://github.com/user-attachments/assets/e48f8dc5-cb43-4ed1-826e-5476fb4a4f30)
+
+Frontend-client
+
+![image](https://github.com/user-attachments/assets/13b51c73-c77b-420f-8d99-2e54c0949512)
+
+![image](https://github.com/user-attachments/assets/540b52c2-662e-4187-949b-09b7e901563a)
+
