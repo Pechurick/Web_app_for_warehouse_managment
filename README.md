@@ -2,6 +2,11 @@
 
 Інструменти: PostgreSQL і pgAdmin4– СУБД, Node JS + Express – backend, HTML + CSS + JS – fronternd.
 
+Для запуску проекту треба: 
+1) відкрити pgAdmin4; створити нову БД; на створеній БД натиснути ПКМ і вибрати "Restore"; вибрати файл з папки "db_pg_admin" "wms_final_db.sql"
+2) відкрити node_js_api; відрити термінал; написати команду "npm run dev"
+3) відкрити frontend-client і frontend-wms; запустити їх через live server
+
 frontend-wms
 
 ![image](https://github.com/user-attachments/assets/44304d99-244f-4d75-918d-24dc2d75e80a)
