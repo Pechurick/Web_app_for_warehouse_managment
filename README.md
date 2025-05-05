@@ -2,6 +2,10 @@
 
 Інструменти: PostgreSQL і pgAdmin4– СУБД, Node JS + Express – backend, HTML + CSS + JS – fronternd.
 
+node_js_api - api яке бере й обробляє дані з БД, і відправляє json клієнту
+frontend-client - тут клієнти можуть замовляти товари зі складу
+frontend-wms - система управління складськими операціями для робітників складу
+
 Для запуску проекту треба: 
 1) відкрити pgAdmin4; створити нову БД; на створеній БД натиснути ПКМ і вибрати "Restore"; вибрати файл з папки "db_pg_admin" "wms_final_db.sql"
 2) відкрити node_js_api; відрити термінал; написати команду "npm run dev"
